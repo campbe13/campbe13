@@ -12,7 +12,7 @@ in order to maintaine an educational account which gives me private repos.
 #### Extra exercises  / sources for assignments
 * https://www.codility.com/  (Thanks to Cait Owens for this one)
 * https://projecteuler.net/ 
-* http://nifty.stanford.edu/  (interesting paper about use of exercises sites nifty https://collaborate.princeton.edu/en/publications/nifty-assignments-2)
+* http://nifty.stanford.edu/  (interesting paper about use of exercises sites nifty [princeton.edu](https://collaborate.princeton.edu/en/publications/nifty-assignments-2))
 * https://edabit.com/
 * https://www.hackerrank.com/
 ### Technical skills
