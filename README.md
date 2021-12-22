@@ -9,6 +9,8 @@ code I am playing with ex [FizzBuzz](https://github.com/campbe13/FizzBuzz)
 More can be found on [gitlab](https://gitlab.com/campbe13) __Note  for teachers__ gitlab is a better platform for students as private
 repos are possible without teacher intervention & registration proccess   With github I have to review every year-ish 
 in order to maintaine an educational account which gives me private repos.
+
+Unless otherwise specified all of my repos are under <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg" alt="License: CC BY 4.0"></a>
 #### Extra exercises  / sources for assignments
 * https://www.codility.com/  (Thanks to Cait Owens for this one)
 * https://projecteuler.net/ 
