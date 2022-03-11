@@ -1,7 +1,7 @@
 ### Patricia Campbell
 Faculty at [Dawson College](https://www.dawsoncollege.qc.ca/) in Montréal
 
-I have a long background in writing code (many languages & platforms including Linux & Android), and in writing socket libraries plus working with, designing and configuring network infrastructure.
+I have a long background in writing code (many languages & platforms including Linux & Android), and in telecomm, including writing socket libraries plus working with, designing and configuring network infrastructure.
 
 My repos are either "research" engineering logs ex [working with docker & cloud](https://github.com/campbe13/docker-ecq2020) or for student consumption ex [code and lab samples](https://github.com/campbe13/JS320-2021) or
 code I am playing with ex [FizzBuzz](https://github.com/campbe13/FizzBuzz)
