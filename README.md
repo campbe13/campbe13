@@ -38,6 +38,7 @@ todo: fix the buttons colours etc
 
 ![](https://img.shields.io/badge/Framework-Android-informational?style=flat&logo=Android&color=61DAFB)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Framework-Node-informational?style=flat&logo=node&color=61DAFB)
 
 ### Current projects let's see if I keep this up to date ¯\\_(ツ)_/¯
 - 🔭 I’m currently working on a Data Science course using Python and Pandas for  January 2022
