@@ -6,11 +6,12 @@ I have a long background in writing code (many languages & platforms including e
 My repos are either "research" engineering logs ex [working with docker & cloud](https://github.com/campbe13/docker-ecq2020) or for student consumption ex [code and lab samples](https://github.com/campbe13/JS320-2021) or
 code I am playing with ex [FizzBuzz](https://github.com/campbe13/FizzBuzz)
 
-More can be found on [gitlab](https://gitlab.com/campbe13) __Note  for teachers__ gitlab is a better platform for students as private
-repos are possible without teacher intervention & registration proccess   With github I have to review every year-ish 
+More can be found on [gitlab](https://gitlab.com/campbe13) <del>__Note  for teachers__ gitlab is a better platform for students as private
+repos are possible without teacher intervention & registration proccess</del>    With github and gitlab I have to review every year-ish 
 in order to maintaine an educational account which gives me private repos.
 
-Unless otherwise specified all of my repos are under <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg" alt="License: CC BY 4.0"></a>
+Unless otherwise specified all of the text in my repos are under <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg" alt="License: CC BY 4.0"></a> and the code is under <a href=https://apache.org/licenses/LICENSE-2.0><img src=https://shields.io/badge/License-Apache%202-blue alt='License: Apache V 2.0'></a>
+
 #### Extra exercises  / sources for assignments
 * https://www.codility.com/  (Thanks to Cait Owens for this one)
 * https://projecteuler.net/ 
@@ -58,4 +59,4 @@ Here are some ideas to get you started:
 -->
 #### Sources for content
 * badges [shields.io](https://shields.io/)
-* created with help from [yshi95](https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c)                                           
+* created with help from [yshi95](https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c)                                          
