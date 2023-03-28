@@ -41,7 +41,7 @@ todo: fix the buttons colours etc
 ![](https://img.shields.io/badge/Framework-Node-informational?style=flat&logo=node&color=61DAFB)
 
 ### Current projects let's see if I keep this up to date ¯\\_(ツ)_/¯
-- 🔭 I’m currently working on a Data Science course using Python and Pandas for  January 2022
+- 🔭 I’m currently working on a Data Science course using Python and Pandas for  January 2023
 ### Github stats
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=campbe13)](https://github.com/campbe13)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=campbe13&layout=compact)](https://github.com/campbe13)
